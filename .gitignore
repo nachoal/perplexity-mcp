@@ -8,3 +8,17 @@ wheels/
 
 # Virtual environments
 .venv
+venv/
+ENV/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
