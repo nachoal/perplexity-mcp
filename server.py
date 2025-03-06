@@ -2,7 +2,6 @@
 from mcp.server.fastmcp import FastMCP
 import sys
 import os
-import json
 from openai import OpenAI
 from typing import Optional
 from dotenv import load_dotenv
